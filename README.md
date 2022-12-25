@@ -1,6 +1,7 @@
 Rustin  is a theme for GNOME/GTK based desktop environments
 
 Installation
+
  Extract Archive File On Directory /usr/share/themes (as root)
  or
  Extract Archive File On Directory /.themes or /.local/share/themes
