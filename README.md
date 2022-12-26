@@ -1,5 +1,5 @@
 # Rustin  
-Is a theme for GNOME/GTK based desktop environments
+A theme for GNOME/GTK based desktop environments
 
 Wallpaper is included in directory
 
